@@ -12,7 +12,7 @@ public class TriangleAvecPoint {
         this.point2 = point2;
         this.point3 = point3;
         //hihi
-        
+        //haha
     }
     public TriangleAvecPoint(TriangleAvecPoint copieTriangle) {
         this.point1=copieTriangle.point1;
