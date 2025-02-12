@@ -1,4 +1,13 @@
 package org.oxyl;
 
-public class AUnCentre {
+abstract class AUnCentre {
+    private Point p;
+
+    public Point getPoint(Point p){
+        return p;
+    }
+    public void setPoint(Point p){
+        this.p=p;
+    }
+
 }
