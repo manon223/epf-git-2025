@@ -9,5 +9,6 @@ abstract class AUnCentre {
     public void setPoint(Point p){
         this.p=p;
     }
-
+    //gsjgfksu
+    // version 1000000
 }
