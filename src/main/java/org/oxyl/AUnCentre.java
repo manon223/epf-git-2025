@@ -11,4 +11,13 @@ abstract class AUnCentre {
     }
     //gsjgfksu
     // version 1000000
+<<<<<<< HEAD
+=======
+    //premier commit
+    // deuxième commit
+<<<<<<< HEAD
+>>>>>>> 48449bf (version9)
+=======
+    // troisième commit 
+>>>>>>> c8527b2 (version10)
 }
